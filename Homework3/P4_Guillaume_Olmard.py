@@ -1,4 +1,4 @@
-#Olmard Guillaume
+#Olmard Guillaume 
 
 # Problem 4: Non-interactive text editor
 
